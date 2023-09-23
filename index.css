@@ -1,0 +1,105 @@
+.hero{
+    display:flex;
+    background-color:blue;
+    text-decoration: none;
+    list-style:none;
+    justify-content: end;
+    height:37px;
+    top: 0%;
+    padding-top:10px;
+    
+}
+.maybe{
+    margin:5px;
+    right:100x;
+    width:100px;
+    text-align: center;
+    font-size:17px;
+    font-style: rgba(255, 255, 255, 0.732);
+    text-decoration: none;
+}
+body{
+    background-color:rgba(0, 0, 0, 0.807);
+}
+.yes{
+    justify-content: space-between;
+    margin-right: 1012px;
+}
+body{
+    background-image: url();
+}
+.teeth{
+    background-color: blue;
+    font-size:20px;
+    border-radius:11px;
+    padding:13px;
+}
+.yeah{
+    width:50%;
+    justify-content:center;
+}
+.wepeople{
+    background-repeat: no-repeat;
+    height:15px;
+    width:15px;
+}
+.wepeople{
+    background-image:url()
+}
+.today{
+float:right;
+top:0%;
+}
+.maybe:hover{
+border: 50px;
+background-color: grey;
+}
+.teeth:active{
+    background-color: azure;
+}
+.red{
+    border:blue;
+}
+.yes{
+    font-style:blue;
+    font-size:23px;
+}
+.heybro{
+    width:25px;
+    height:35px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.yeah{
+    height:50%;
+    margin-top: 425px;
+
+}
+.teeth{
+    margin-left: 350px;
+    padding:17px;
+}
+.folder{
+    display:flex;
+    float:bottom;
+    font-size:18px;
+    padding:35px;
+    border-radius:45px
+}
+body{
+    background-image: url();
+}
+.windows{
+    width:50px;
+    height:45px;
+}
+.maybe{
+    text-decoration: none;
+    color:white;
+}
+.maybe{
+    font-style:white;
+    font-size:21px;
+    margin-right:50px;
+}
